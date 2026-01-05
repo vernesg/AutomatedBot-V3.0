@@ -25,3 +25,4 @@
 ```bash
 git clone https://github.com/vernesg/AutomatedBot-V3.0.git
 cd AutomatedBot-V3.0
+node vern.js
