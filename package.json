@@ -41,7 +41,7 @@
     "request": "^2.88.2",
     "sshpk": "^1.18.0",
     "websocket-stream": "^5.5.0",
-    "ws3-fca": "^1.0.47",
+    "fca-unofficial": "^1.0.47",
     "yt-search": "^2.10.4",
     "ytdl-core": "^4.11.4"
   }
